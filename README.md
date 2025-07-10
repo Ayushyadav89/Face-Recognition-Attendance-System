@@ -53,5 +53,5 @@ Software for Industry , where they can track the attendence of their employee wi
 
 ## Contact
 - Author: Ayush Yadav
--Email: 2k22.cse.2213307@gmail.com
+- Email: 2k22.cse.2213307@gmail.com
 
