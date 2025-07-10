@@ -51,3 +51,7 @@ Software for Industry , where they can track the attendence of their employee wi
 ## License
 - Include information about the project's license.
 
+## Contact
+- Author: Ayush Yadav
+-Email: 2k22.cse.2213307@gmail.com
+
